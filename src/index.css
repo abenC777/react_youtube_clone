@@ -49,7 +49,7 @@ a {
   font-weight: bold !important;
   text-transform: capitalize;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: start;
   cursor: pointer;
   background: transparent;
