@@ -49,8 +49,8 @@ a {
   font-weight: bold !important;
   text-transform: capitalize;
   display: flex;
-  align-items: flex-start;
-  justify-content: start;
+  align-items: start;
+  justify-content: flex-start;
   cursor: pointer;
   background: transparent;
   outline: none;
